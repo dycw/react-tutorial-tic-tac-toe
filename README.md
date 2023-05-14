@@ -1,3 +1,3 @@
-# `template-generic`
+# React Tutorial: Tic-Tac-Toe
 
-Template for generic repositories
+https://react.dev/learn/tutorial-tic-tac-toe
